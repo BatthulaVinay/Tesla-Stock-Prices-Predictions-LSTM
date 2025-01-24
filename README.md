@@ -90,7 +90,7 @@ Steps to Run the Project:
 Get the Project Files:
 
 Download the files from GitHub by using the command below in your terminal/command prompt:
-git clone [https://github.com/batthulavinay/tesla-stock-predictions.git]
+git clone [https://github.com/BatthulaVinay/tesla-stock-predictions.git]
 This will copy the project folder onto your computer.
 Open the Project Folder:
 
