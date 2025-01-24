@@ -4,7 +4,7 @@ This project aims to predict Tesla's stock prices through the implementation of 
 
 ### **Dataset**
 
-The dataset utilized is named `TESLA.csv`, containing historical stock prices with the following columns:
+The dataset utilized is named `TESLA.csv`, contains historical stock prices with the following columns:
 - **Date**
 - **Close** (closing price)
 
