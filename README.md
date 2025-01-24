@@ -36,7 +36,7 @@ To successfully run this project, ensure you have the following Python libraries
 - [TensorFlow/Keras](https://www.tensorflow.org/)
 
 You can install these libraries using:
-
+pip install pandas numpy matplotlib seaborn tensorflow
 
 ### **Results**
 
