@@ -1,10 +1,10 @@
 ## Project Overview: Tesla Stock Price Prediction Using LSTM
 
-This project aims to predict Tesla's stock prices through the implementation of Long Short-Term Memory (LSTM) networks. The workflow encompasses data loading, preprocessing, visualization, model building, training, and evaluation. Below is a detailed breakdown of the project components.
+This project aims to predict Tesla's stock prices by implementing Long Short-Term Memory (LSTM) networks. The workflow encompasses data loading, preprocessing, visualization, model building, training, and evaluation. 
 
 ### **Dataset**
 
-The dataset utilized is named `TESLA.csv`, contains historical stock prices with the following columns:
+The dataset utilized is named `TESLA.csv`, and contains historical stock prices with the following columns:
 - **Date**
 - **Close** (closing price)
 
@@ -24,7 +24,7 @@ The dataset utilized is named `TESLA.csv`, contains historical stock prices with
 - **LSTM Model Creation**: Build and train the LSTM model using [TensorFlow/Keras](https://www.tensorflow.org/).
 
 #### **4. Evaluation**
-- Assess model performance using metrics such as Mean Squared Error (MSE) to quantify prediction accuracy.
+- To quantify prediction accuracy, assess model performance using metrics such as Mean Squared Error (MSE).
 
 ### **Dependencies**
 
@@ -36,7 +36,7 @@ To successfully run this project, ensure you have the following Python libraries
 - [TensorFlow/Keras](https://www.tensorflow.org/)
 
 You can install these libraries using:
-pip install pandas numpy matplotlib seaborn tensorflow
+pip install pandas numpy matplotlib seaborn TensorFlow
 
 ### **Results**
 
@@ -52,8 +52,4 @@ To enhance the model's predictive capabilities, consider:
 ### **License**
 
 This project is licensed under the MIT License, allowing for free usage and modification.
-
-By following this structured approach, you can effectively predict Tesla's stock prices using LSTM networks, contributing valuable insights into stock market forecasting.
-
-
 
