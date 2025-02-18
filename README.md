@@ -1,6 +1,6 @@
 ## Project Overview: Tesla Stock Price Prediction Using LSTM
 
-This project aims to predict Tesla's stock prices by implementing Long Short-Term Memory (LSTM) networks. The workflow encompasses data loading, preprocessing, visualization, model building, training, and evaluation. 
+This project aims to predict Tesla's stock prices by implementing Long Short-Term Memory (LSTM) networks. The workflow encompasses data loading, preprocessing, visualization, model building, and evaluation. 
 
 ### **Dataset**
 
